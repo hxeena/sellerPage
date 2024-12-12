@@ -1,0 +1,43 @@
+.admin-reviews {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto; /* Center horizontally */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .admin-reviews h2 {
+    text-align: center;
+    color: #ff8c00;
+  }
+  
+  .admin-reviews select {
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+  }
+  
+  .admin-reviews ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admin-reviews li {
+    background-color: #1f1f1f;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  

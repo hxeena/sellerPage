@@ -1,0 +1,39 @@
+.sell-product {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 0 auto; /* Center horizontally */
+    text-align: center;
+  }
+  
+  .sell-product h2 {
+    color: #ff8c00;
+  }
+  
+  .sell-product input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #292929;
+    color: #e0e0e0;
+  }
+  
+  .sell-product button {
+    padding: 10px;
+    background: linear-gradient(45deg, #4caf50, #81c784);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .sell-product button:hover {
+    background: linear-gradient(45deg, #81c784, #4caf50);
+  }
+  
